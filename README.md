@@ -8,11 +8,13 @@ Adicionalmente, se implementa un dashboard visual e interactivo que permite cent
 
 **Tecnologías Utilizadas**
 
-* Node Red
-* Protocolo de Comunicación SNMP
-* JavaScript / JSON
-* Equipos UPS Liebert GXT5 (Vertiv)
-* Módulo IntelliSlot RDU 101
+* Arquitectura IoT (adquisición → red → procesamiento → visualización)
+* Node-RED – Plataforma de integración para soluciones IoT
+* Dashboards de Node-RED – Interfaz de visualización IoT
+* JavaScript – Lógica y procesamiento de datos
+* JSON – Formato de intercambio de información
+* Protocolo SNMP – Telemetría y monitoreo remoto de dispositivos IoT
+
 
 **Infraestructura**
 
