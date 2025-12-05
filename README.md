@@ -20,6 +20,6 @@ Adicionalmente, se implementa un dashboard visual e interactivo que permite cent
   
   Los sistemas de alimentación ininterrumpida (UPS) son dispositivos que mediantes elementos almacenadores de energía, durante un apagón eléctrico proporcionan energía eléctrica por un tiempo limitado a      los dispositivos que tenga conectados.
 
-![Figura 1.](Imagenes/UPS.png)
+![Figura 1.](Imagenes/UPS.jpg)
 
 
