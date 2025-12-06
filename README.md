@@ -31,6 +31,20 @@ Adicionalmente, se implementa un dashboard visual e interactivo que permite cent
   </tr>
 </table>
 
+* Módulo IntelliSlot RDU 101
+  
+<table>
+  <tr>
+    <td>
+      El módulo IntelliSlot es una tarjeta de expansión utilizada en muchos modelos de UPS, incluyendo las de la serie GXT5 de APC, para facilitar la comunicación con sistemas de monitoreo y control. IntelliSlot permite a la UPS interactuar con redes a través de diferentes protocolos como SNMP, Modbus, y otros, permitiendo un monitoreo remoto eficiente.  <b/>   
+    </td>
+    <td>
+      <img src="Imagenes/RDU_101.jpg" width="450">
+    </td>
+  </tr>
+</table>
+
+
 
 
 
