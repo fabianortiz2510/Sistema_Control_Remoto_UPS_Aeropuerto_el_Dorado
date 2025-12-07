@@ -39,7 +39,7 @@ Adicionalmente, se implementa un dashboard visual e interactivo que permite cent
       El módulo IntelliSlot es una tarjeta de expansión utilizada en muchos modelos de UPS, incluyendo las de la serie GXT5 de APC, para facilitar la comunicación con sistemas de monitoreo y control. IntelliSlot permite a la UPS interactuar con redes a través de diferentes protocolos como SNMP, Modbus, y otros, permitiendo un monitoreo remoto eficiente.  <b/>   
     </td>
     <td>
-      <img src="Imagenes/RDU_101.jpg" width="450">
+      <img src="Imagenes/RDU_101.jpg" width="600">
     </td>
   </tr>
 </table>
@@ -55,14 +55,14 @@ Se conecta el puerto LAN Ethernet el cual asigna una dirección IP que se visual
 <table>
     <tr>
         <td>
-           <img src="Imagenes/Power_Insight.jpg" width="450">
+           <img src="Imagenes/IPV4.jpg" width="300">
         </td>
         <td>
-          <img src="Imagenes/Power_Insight.jpg" width="450">
-        </td>
+          <img src="Imagenes/Power_Insight.jpg" width="500">
         </td>
     </tr>
 </table>
+
 
 
 
