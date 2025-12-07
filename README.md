@@ -56,7 +56,7 @@ Se realiza la instalación del módulo de comunicación de la UPS. Toda la líne
 Se conecta el puerto LAN Ethernet el cual asigna una dirección IP que se visualiza en el panel de la UPS y que va a permitir acceder al software del módulo. El Vertiv™ Power Insight es un software web diseñado para los usuarios con infraestructuras distribuidas que necesitan gestionar múltiples dispositivos. Es fácil de instalar y de utilizar gracias a una interfaz única para hasta 100 UPS.
 
 <h1 align="center"> 
-  <img src="Imagenes/Panel_PowerIinsight.jpg" alt="Figura 2" width="400">
+  <img src="Imagenes/Power_Insight.jpg" alt="Figura 2" width="400">
 </h1>
 
 
