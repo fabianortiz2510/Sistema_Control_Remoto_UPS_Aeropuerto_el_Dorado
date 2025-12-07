@@ -45,7 +45,9 @@ Adicionalmente, se implementa un dashboard visual e interactivo que permite cent
 </table>
 
 
+**Procedimiento**
 
+Se realiza la instalación del módulo de comunicación de la UPS. Toda la línea VERTIV cuenta con un puerto dedicado para este módulo en el panel posterior de la unidad, tal como se observa en la imagen.
 
 
 
