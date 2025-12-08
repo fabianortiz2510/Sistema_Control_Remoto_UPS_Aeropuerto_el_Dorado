@@ -50,7 +50,16 @@ Adicionalmente, se implementa un dashboard visual e interactivo que permite cent
 Se realiza la instalación del módulo de comunicación de la UPS. Toda la línea VERTIV cuenta con un puerto dedicado para este módulo en el panel posterior de la unidad, tal como se observa en la imagen.
 
 
-Se conecta el puerto LAN Ethernet el cual asigna una dirección IP que se visualiza en el panel de la UPS y que va a permitir acceder al software del módulo. El Vertiv™ Power Insight es un software web diseñado para los usuarios con infraestructuras distribuidas que necesitan gestionar múltiples dispositivos. Es fácil de instalar y de utilizar gracias a una interfaz única para hasta 100 UPS.
+Una vez instalado el módulo, se conecta el puerto LAN Ethernet, el cual asigna una dirección IPv4 192.168.1.10. Esta dirección puede visualizarse en el panel de la UPS y permite acceder al software de gestión del módulo.
+
+
+Vertiv™ Power Insight es una plataforma web diseñada para usuarios con infraestructuras distribuidas que necesitan gestionar múltiples dispositivos. Es fácil de instalar y utilizar gracias a su interfaz centralizada, que permite administrar hasta 100 UPS desde un único entorno. Se ingresan las siguientes credenciales:
+
+
+username: **Master**
+
+Password: **Liebertonline25**
+
 
 <table>
     <tr>
@@ -62,6 +71,12 @@ Se conecta el puerto LAN Ethernet el cual asigna una dirección IP que se visual
         </td>
     </tr>
 </table>
+
+
+En Power Insight se usa la siguiente  ruta de acceso a las configuraciones para ajustar el protocolo de comunicación SNMP.
+
+**Communications / Protocols / SNMP / SNMPv1 v2c Access**
+
 
 
 
