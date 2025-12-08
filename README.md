@@ -81,6 +81,16 @@ En Power Insight se usa la siguiente  ruta de acceso a las configuraciones para 
 
 El host de acceso se deja de manera pública y la contraseña definida como “public”. A partir de la configuración del protocolo SNMP  se realiza el escalamiento y extracción de información en Node- Red para visualizar los datos de monitoreo de la UPS en tiempo real y poder diseñar el sistema con diferentes marcas teniendo en cuenta la variación de las direcciones IP proporcionadas por el servidor.
 
+<table>
+    <tr>
+        <td>
+           <img src="Imagenes/Acceso_Protocolo.jpg" width="300">
+        </td>
+        <td>
+          <img src="Imagenes/Power_Insight.jpg" width="500">
+        </td>
+    </tr>
+</table>
 
 
 
