@@ -56,7 +56,7 @@ Una vez instalado el módulo, se conecta el puerto LAN Ethernet, el cual asigna 
 Vertiv™ Power Insight es una plataforma web diseñada para usuarios con infraestructuras distribuidas que necesitan gestionar múltiples dispositivos. Es fácil de instalar y utilizar gracias a su interfaz centralizada, que permite administrar hasta 100 UPS desde un único entorno. Se ingresan las siguientes credenciales:
 
 
-username: **Master**
+Username: **Master**
 
 Password: **Liebertonline25**
 
@@ -84,13 +84,24 @@ El host de acceso se deja de manera pública y la contraseña definida como “p
 <table>
     <tr>
         <td>
-           <img src="Imagenes/Acceso_Protocolo.jpg" width="300">
+           <img src="Imagenes/Acceso_Protocolo.jpg" width="500">
         </td>
         <td>
-          <img src="Imagenes/Power_Insight.jpg" width="500">
+          <img src="Imagenes/Ip_Publica.jpg" width="500">
         </td>
     </tr>
 </table>
+
+
+**Instalación Node-RED**
+
+Se realiza la instalación de Node-RED, accediendo desde el símbolo del sistema. y se ejecuta en el navegador como localhost:1880 para construir el diagrama de flujo del sistema de monitoreo. Para el desarrollo del diagrama de flujo del sistema de monitoreo se instalan las siguientes librerías.
+
+* node-red-node-snmp
+* node-red-node-ping
+* node-red-node-email
+* node-red-dashboard
+
 
 
 
