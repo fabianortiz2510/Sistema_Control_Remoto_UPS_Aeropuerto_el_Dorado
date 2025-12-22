@@ -62,6 +62,7 @@ Adicionalmente, se implementa un dashboard visual e interactivo que permite cent
 
 Se realiza la instalación del módulo de comunicación de la UPS. Toda la línea VERTIV cuenta con un puerto dedicado para este módulo en el panel posterior de la unidad, tal como se observa en la imagen.
 
+![Figura 2.](Imagenes/Instalacion_Node_js.jpg)
 
 Una vez instalado el módulo, se conecta el puerto LAN Ethernet, el cual asigna una dirección IPv4 192.168.1.10. Esta dirección puede visualizarse en el panel de la UPS y permite acceder al software de gestión del módulo.
 
