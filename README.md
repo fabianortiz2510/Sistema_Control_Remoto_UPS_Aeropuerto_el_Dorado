@@ -109,7 +109,9 @@ Este procedimiento se aplica igualmente a una UPS American Power, con el fin de 
 
 **Instalación Node-RED**
 
-Se realiza la instalación de Node-RED, accediendo desde el símbolo del sistema. y se ejecuta en el navegador como localhost:1880 para construir el diagrama de flujo del sistema de monitoreo. Para el desarrollo del diagrama de flujo del sistema de monitoreo se instalan las siguientes librerías.
+Se realiza la instalación de Node-RED, ingresando al navegador y buscando Node.js descargando las versión LTS como se observa en la imágen.
+
+Accediendo desde el símbolo del sistema. y se ejecuta en el navegador como localhost:1880 para construir el diagrama de flujo del sistema de monitoreo. Para el desarrollo del diagrama de flujo del sistema de monitoreo se instalan las siguientes librerías.
 
 * node-red-node-snmp
 * node-red-node-ping
